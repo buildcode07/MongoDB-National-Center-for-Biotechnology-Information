@@ -1,5 +1,5 @@
-Some basic working of pymongo
-=============================
+Some basic workings of pymongo
+==============================
 
 ### import two important things of pymongo
 import pymongo 
