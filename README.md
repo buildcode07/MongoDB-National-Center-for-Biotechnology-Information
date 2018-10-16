@@ -1,7 +1,7 @@
 Some basic working of pymongo
 =============================
 
-### import two inportant modules of pymongo
+### import two important things of pymongo
 import pymongo 
 
 from pymongo import MongoClient
